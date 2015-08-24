@@ -1,4 +1,6 @@
 I don't know what is my favourite colour.
 Hello, how are you?
 The two moons may be a problem for Wolfman.
-But the Mummy will appreciate the lack of humidity
+But the Mummy will appreciate the lack of humidity.
+
+GIT is not working properly with Windows.
